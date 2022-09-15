@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Website](https://durjaygp.xyz/)
-* ✉️  You can contact me at [durjayghosh100@gmail.com](mailto:durjayghosh100@gmail.com)
+* ✉️  You can contact me at [durjayoffice@gmail.com](mailto:durjayoffice@gmail.com)
 * 🚀  I'm currently working on [Blog Website](https://superblogger.xyz)
 * 🧠  I'm learning laravel, php, React js etc
 
