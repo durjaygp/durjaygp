@@ -10,9 +10,8 @@ Full Stack Web Developer
 * 🚀  I'm currently working on [Blog Website](https://superblogger.xyz)
 * 🧠  I'm learning laravel, php, React js etc
 
-<a href="https://www.twitter.com/durjaygp" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/durjaygp?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/durjaygp" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/durjaygp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/durjaygp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
