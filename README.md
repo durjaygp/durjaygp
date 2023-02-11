@@ -8,7 +8,7 @@ Full Stack Web Developer
 * 🖥️  See my portfolio at [Website](https://www.fiverr.com/durjaygp)
 * ✉️  You can contact me at [durjayghosh100@gmail.com](mailto:durjayghosh100@gmail.com)
 * 🚀  I'm currently working on [Blog Website](https://superblogger.xyz)
-* 🧠  I'm learning laravel, php, React js etc
+* 🧠  I'm learning laravel, php, React js, Bootstrap, TailwindCss etc
 
 
 <a href="https://www.github.com/durjaygp" target="_blank" rel="noreferrer"><img
