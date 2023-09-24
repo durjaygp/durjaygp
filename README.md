@@ -5,9 +5,10 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Website](https://www.fiverr.com/durjaygp)
+* 🖥️  Hire Me [Fiverr](https://www.fiverr.com/durjaygp)
 * ✉️  You can contact me at [durjayghosh100@gmail.com](mailto:durjayghosh100@gmail.com)
 * 🚀  I'm currently working on [Blog Website](https://www.bdwebcoder.com/)
+* 🚀  My Portfolio [Personal Website](https://durjayghosh.com/) 
 * 🧠  I'm learning laravel, php, React js, Bootstrap, TailwindCss etc
 
 
